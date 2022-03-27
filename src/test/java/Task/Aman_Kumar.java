@@ -73,6 +73,12 @@ public class Aman_Kumar {
 //		Thread.sleep(2000);
 //		robot.keyPress(KeyEvent.VK_ENTER);
 //		Thread.sleep(4000);
+		
+		
+		System.out.println("ok");
+		System.out.println("ok");
+		System.out.println("ok");
+		System.out.println("ok");
 	}
 
 	@Test(priority = 1, description = "Select State")
